@@ -1,0 +1,9 @@
+a = input("digite o seu sexo em 'f' ou 'm'")
+
+if a == 'f':
+    print('feminino')
+elif a == 'm':
+    print('masculino')
+else:
+    print('sexo invali')
+#Francisco Zanotelli Demarchi

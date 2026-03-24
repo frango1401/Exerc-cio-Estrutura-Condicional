@@ -1,0 +1,11 @@
+a = int(input("digite o preco do primeiro item"))
+b = int(input("digite o preco do segundo item"))
+c = int(input("digite o preco do terceio item"))
+
+if a < b and b < c:
+   print(f"{a}é o menor numero")
+elif b < c:
+    print(f"{b}é o menor numero")
+else:
+    print(f"{c}é o menor numero")
+#Francisco Zanotelli Demarchi
