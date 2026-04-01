@@ -1,0 +1,11 @@
+m = int(input("maças compradas: "))
+
+t = m * 1.30
+t2 = m * 1.00
+
+if m < 12:
+    print(f"O custo da compra foi {t}")
+elif m >= 12:
+    print(f"O custo e de {t2}")
+
+#Francisco Zanotelli Demarchi

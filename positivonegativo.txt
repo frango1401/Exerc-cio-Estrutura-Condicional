@@ -1,0 +1,10 @@
+n = int(input("digita o numero: "))
+
+if n > 0:
+    print("positivo")
+elif n == 0:
+    print("positivo")
+else:
+    print("o numero é negativo")
+
+#Francisco Zanotelli Demarchi
